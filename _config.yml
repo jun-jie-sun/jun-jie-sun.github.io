@@ -28,8 +28,9 @@ author:
   bio              : "————————————————————————————————————"
   location         : "Hefei, Anhui, China"
   employer         : "USTC（中国科学技术大学）"
-  uri              : # URL
   email            : "1336792661@qq.com" 
+  uri              : # URL
+
 
   # Academic websites
   academia         : # URL
