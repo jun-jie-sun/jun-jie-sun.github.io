@@ -10,6 +10,18 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Award"
+    url: /talks/    
+
+  - title: "patent"
+    url: /teaching/    
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
