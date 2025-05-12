@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second-year Master's Degree Candidate at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), majoring in plasma physics, with an expected graduation date of June 2026. My research interests lie in particle–material interactions, particle transport simulation, and the application of machine learning in physical experiments and simulations.
 
-Educational Background
+Academic performance
 ======
 During my undergraduate studies, my overall academic performance is equivalent to or above the level of a UK 2:1 Honours degree (or an equivalent qualification), and I graduated with a GPA of 3.69 out of 5.00, with an average score of 87.02%, ranking 1st among 98 students in the program. 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
