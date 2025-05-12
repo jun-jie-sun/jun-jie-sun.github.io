@@ -13,6 +13,8 @@ Academic performance
 ======
 During my undergraduate studies, my overall academic performance is equivalent to or above the level of a UK 2:1 Honours degree (or an equivalent qualification), and I graduated with a GPA of 3.69 out of 5.00, with an average score of 87.02%, ranking 1st among 98 students in the program. 
 
+During my master's studies
+
 
 Research Experience
 ======
