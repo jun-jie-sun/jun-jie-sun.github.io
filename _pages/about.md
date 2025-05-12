@@ -16,6 +16,7 @@ During my undergraduate studies, my overall academic performance is equivalent t
 During my master's studies
 
 
+
 Research Experience
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
