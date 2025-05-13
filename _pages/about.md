@@ -24,8 +24,10 @@ Research Experience
 
 I have participated in various innovative works design competitions held in China. The innovative devices involved during the competition include : a traffic tunnel power generation device for safe emergency power supply, a green power generation device based on road tunnel traffic flow, a pressure difference sensing regeneration green power supply device based on liquid pipe network, and a nuclear power reactor safety emergency device, helping me win 3 provincial or national awards、 nearly 10 school-level awards and apply for 3 patents successfully.
 1. Mathematical Modeling Competitions
+
 I have participated in many domestic and international mathematical modeling competitions, been exposed to various hot research issues in interdisciplinary fields, and utilized simulation and machine learning methods to solve these problems. At that time, it had already won the second prize at the school level in the National Competition of China and the F Award (the highest award nomination) in the Mathematical Contest in Modeling of the United States, which set a new record for the highest award in the school at that time.
 1. Scientific Research Experiment
+
 During my undergraduate studies, I joined the Hunan Provincial Engineering Research Center for Uranium Tailings Pond Decommissioning and Treatment Technology and participated in the research on the treatment and utilization of tailings ponds. I successfully applied for one invention patent and published one sci paper finally. 
 
 Skills and abilities
