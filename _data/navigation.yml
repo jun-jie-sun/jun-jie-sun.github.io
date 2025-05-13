@@ -11,10 +11,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "  Awards  "
+  - title: "&nbsp;&nbsp;Awards&nbsp;&nbsp;  "
     url: /talks/    
 
-  - title: "  Patents  "
+  - title: "&nbsp;&nbsp;Patents&nbsp;&nbsp;"
     url: /teaching/    
     
 #  - title: "Portfolio"
@@ -23,7 +23,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "  CV  "
+  - title: "&nbsp;&nbsp;&nbsp;&nbsp;CV&nbsp;&nbsp;&nbsp;&nbsp;  "
     url: /cv/
     
   # - title: "CV"
