@@ -26,7 +26,7 @@ Research Experience
 
 Skills and abilities
 ======
-1.  Computer programming skills: Familiar with using matlab and python, with a foundation in c++ and currently learning to use the c++ based Monte Carlo simulation software: Geant4.
+1.  Computer Programming Kills: Familiar with using matlab and python, with a foundation in c++ and currently learning to use the c++ based Monte Carlo simulation program like Geant4.
 2.  
 
 Future Plan
