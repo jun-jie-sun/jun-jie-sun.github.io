@@ -27,9 +27,13 @@ Research Experience
 Skills and abilities
 ======
 1.  Computer Programming Kills: Familiar with using matlab and python, with a foundation in c++ and currently learning to use the c++ based Monte Carlo simulation program like Geant4.
-2.  
+2.  The use of simulation software: COMSOL is utilized for wind field simulation, particle tracking simulation, plasma simulation, etc. Electric field simulation and thermodynamic simulation, etc. are carried out by using ANSYS.
+3.  Drawing and modeling: Use CAD to draw relevant floor plans and SOLIDWORKS to conduct 3D modeling of related parts and devices.
+4.  Experimental operations: Design and production of models, design, installation and use of diagnostic devices, and operation of laboratory instruments such as ball mills.
+5.  Other skills: The use of Office software such as MS Office, video production and editing.
+6.  I have strong self-control and a high interest in learning. More skills and abilities are under development.
 
 Future Plan
 ======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I aim to pursue a fully funded PhD program in physics or a closely related interdisciplinary field, such as machine learning for particle-material interactions. Building upon my academic training and research experience in plasma physics and numerical simulations, my goal is to contribute to fundamental understanding and practical modeling of energetic particle interactions with materials, particularly in fusion energy and advanced manufacturing contexts. In the coming years, I plan to deepen my expertise in multi-scale simulation methods (e.g., PIC, MD, MC), strengthen my mathematical and computational skills, and explore the integration of AI-based approaches into physical modeling. Ultimately, I hope to develop innovative tools and solutions that address critical scientific and engineering challenges while growing as a capable and collaborative researcher in an international environment.
 
