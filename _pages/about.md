@@ -20,19 +20,14 @@ During my master's studies, my overall academic performance is equivalent to or 
 Research Experience
 ======
 
-1. Innovative Works Design Competitions
-
-I have participated in various innovative works design competitions held in China. The innovative devices involved during the competition include : a traffic tunnel power generation device for safe emergency power supply, a green power generation device based on road tunnel traffic flow, a pressure difference sensing regeneration green power supply device based on liquid pipe network, and a nuclear power reactor safety emergency device, helping me win 3 provincial or national awards、 nearly 10 school-level awards and apply for 3 patents successfully.
-1. Mathematical Modeling Competitions
-
-I have participated in many domestic and international mathematical modeling competitions, been exposed to various hot research issues in interdisciplinary fields, and utilized simulation and machine learning methods to solve these problems. At that time, it had already won the second prize at the school level in the National Competition of China and the F Award (the highest award nomination) in the Mathematical Contest in Modeling of the United States, which set a new record for the highest award in the school at that time.
-1. Scientific Research Experiment
-
-During my undergraduate studies, I joined the Hunan Provincial Engineering Research Center for Uranium Tailings Pond Decommissioning and Treatment Technology and participated in the research on the treatment and utilization of tailings ponds. I successfully applied for one invention patent and published one sci paper finally. 
+1. Innovative Works Design Competitions: I have participated in various innovative works design competitions held in China. The innovative devices involved during the competition include : a traffic tunnel power generation device for safe emergency power supply, a green power generation device based on road tunnel traffic flow, a pressure difference sensing regeneration green power supply device based on liquid pipe network, and a nuclear power reactor safety emergency device, helping me win 3 provincial or national awards、 nearly 10 school-level awards and apply for 3 patents successfully.
+1. Mathematical Modeling Competitions: I have participated in many domestic and international mathematical modeling competitions, been exposed to various hot research issues in interdisciplinary fields, and utilized simulation and machine learning methods to solve these problems. At that time, it had already won the second prize at the school level in the National Competition of China and the F Award (the highest award nomination) in the Mathematical Contest in Modeling of the United States, which set a new record for the highest award in the school at that time.
+1. Scientific Research Experiment: During my undergraduate studies, I joined the Hunan Provincial Engineering Research Center for Uranium Tailings Pond Decommissioning and Treatment Technology and participated in the research on the treatment and utilization of tailings ponds. I successfully applied for one invention patent and published one sci paper finally. During the postgraduate stage, I joined the Neutral Beam Injection Laboratory of Hefei Institute of Physics, Chinese Academy of Sciences, and engaged in the research on the particle evolution characteristics of the CRAFT-NNBI electro-deflectors. One sci paper has been published so far (minor revision pending acceptance), and one invention patent has been applied for (pending public release).
 
 Skills and abilities
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1.  Computer programming skills: Familiar with using matlab and python, with a foundation in c++ and currently learning to use the c++ based Monte Carlo simulation software: Geant4.
+2.  
 
 Future Plan
 ======
