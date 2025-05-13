@@ -26,7 +26,7 @@ Research Experience
 
 Skills and abilities
 ======
-1.  Computer Programming Kills: Familiar with using matlab and python, with a foundation in c++ and currently learning to use the c++ based Monte Carlo simulation program like Geant4.
+1.  Computer Programming Kills: Familiar with using matlab and python, with a foundation in c++ and currently learning to use the c++ based Monte Carlo simulation program like Geant4.Simple web page creation and modification.
 2.  The use of simulation software: COMSOL is utilized for wind field simulation, particle tracking simulation, plasma simulation, etc. Electric field simulation and thermodynamic simulation, etc. are carried out by using ANSYS.
 3.  Drawing and modeling: Use CAD to draw relevant floor plans and SOLIDWORKS to conduct 3D modeling of related parts and devices.
 4.  Experimental operations: Design and production of models, design, installation and use of diagnostic devices, and operation of laboratory instruments such as ball mills.
