@@ -31,7 +31,7 @@ Skills and abilities
 3.  Drawing And Modeling: Use CAD to draw relevant floor plans and SOLIDWORKS to conduct 3D modeling of related parts and devices.
 4.  Experimental Operations: Design and production of models, design, installation and use of diagnostic devices, and operation of laboratory instruments such as ball mills.
 5.  Other Skills: The use of Office software such as MS Office, video production and editing.
-6.  I have strong self-control and a high interest in learning. More skills and abilities are under development.
+6.  ...(I have strong self-control and a high interest in learning. More skills and abilities are under development.)
 
 Future Plan
 ======
