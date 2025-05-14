@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-09
 venue: 'Journal of Radioanalytical and Nuclear Chemistry'
 slidesurl: 
-papel: 'http://jun-jie-sun.github.io/files/paper1.pdf'
+paperurl: 'http://jun-jie-sun.github.io/files/paper1.pdf'
 bibtexurl: 
 citation: 'Zhao T, Wu H, Sun J, et al. Immobilization of uranium tailings by phosphoric acid-based geopolymer with optimization of machine learning[J]. Journal of Radioanalytical and Nuclear Chemistry, 2022, 331(9): 4047-4054.'
 ---
