@@ -3,7 +3,7 @@ title: " [Immobilization of uranium tailings by phosphoric acid-based geopolymer
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 
+excerpt: 111
 date: 2022-09
 venue: 'Journal of Radioanalytical and Nuclear Chemistry'
 slidesurl: 
