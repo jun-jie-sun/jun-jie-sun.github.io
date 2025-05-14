@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second-year Master's Degree Candidate at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), majoring in plasma physics, with an expected graduation date of June 2026. My research interests lie in particle–material interactions, particle transport simulation, and the application of machine learning in physical experiments and simulations.
 
-Academi performance
+Academic performance
 ======
 During my undergraduate studies, my overall academic performance is equivalent to or above the level of a UK 2:1 Honours degree (or an equivalent qualification), and I graduated with a GPA of 3.69 out of 5.00, with an average score of 87.02/100, ranking 1st among 98 students in the program. 
 
