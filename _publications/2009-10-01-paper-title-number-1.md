@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 11
-date: 2022-09
+date: 2022-08-11
 venue: 'Journal of Radioanalytical and Nuclear Chemistry'
 slidesurl: 
 paperurl: 'http://jun-jie-sun.github.io/files/paper1.pdf'
