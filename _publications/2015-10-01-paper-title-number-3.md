@@ -1,5 +1,5 @@
 ---
-title: '<a href="https://www.tandfonline.com/journals/grad20" style="color:	#003F5C;">1. Simulation analysis on the irradiation effect of hydrogen ions on the electrostatic residual ion dump in NNBI</a>'
+title: '<a href="https://www.tandfonline.com/journals/grad20" style="color:	#2E8B57;">1. Simulation analysis on the irradiation effect of hydrogen ions on the electrostatic residual ion dump in NNBI</a>'
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
