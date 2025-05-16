@@ -1,5 +1,5 @@
 ---
-title: '<a href="https://link.springer.com/article/10.1007/s10967-022-08454-3" style="color:#004C4C;">2. Immobilization of uranium tailings by phosphoric acid-based geopolymer with optimization of machine learning</a>'
+title: '<a href="https://link.springer.com/article/10.1007/s10967-022-08454-3" style="color:#003F5C;">2. Immobilization of uranium tailings by phosphoric acid-based geopolymer with optimization of machine learning</a>'
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
