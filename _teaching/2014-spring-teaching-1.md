@@ -5,7 +5,7 @@ type: "Utility Model Patent"
 permalink: 
 venue: 
 date: 2021-09-17
-location: 
+location: "September 17"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
