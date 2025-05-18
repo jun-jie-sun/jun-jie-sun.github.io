@@ -3,7 +3,7 @@ title: '<a href="http://jun-jie-sun.github.io/images/一种分布式风光互补
 collection: teaching
 type: "Utility Model Patent"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "February 15"
 date: 2022-02-15
 location: 
 
