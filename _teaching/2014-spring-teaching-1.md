@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: '<a href="https://www.contest.comap.com/Certform/process.php" style="color: teal;">1. International level: Finalist (top 2%) in The Mathematical Contest in Modeling and The Interdisciplinary Contest in Modeling (MCM/ICM) </a>'
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
