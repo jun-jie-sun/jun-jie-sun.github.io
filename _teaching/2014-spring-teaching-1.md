@@ -1,5 +1,5 @@
 ---
-title: '<a href="https://www.contest.comap.com/Certform/process.php" style="color: teal;">1. International level: Finalist (top 2%) in The Mathematical Contest in Modeling and The Interdisciplinary Contest in Modeling (MCM/ICM) </a>'
+title: '<a href="http://jun-jie-sun.github.io/images/一种核电反应堆安全应急装置.png" style="color: teal;">1. International level: Finalist (top 2%) in The Mathematical Contest in Modeling and The Interdisciplinary Contest in Modeling (MCM/ICM) </a>'
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
