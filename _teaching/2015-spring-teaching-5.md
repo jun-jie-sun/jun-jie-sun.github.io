@@ -3,7 +3,7 @@ title: '<a href="http://jun-jie-sun.github.io/images/一种用于辐照表征与
 collection: teaching
 type: "Invention Patent"
 permalink: /teaching/2015-spring-teaching-1
-venue: "July 05"
-date: 2022-07-05
+venue: "May 13"
+date: 2025-05-13
 location: 
 ---
