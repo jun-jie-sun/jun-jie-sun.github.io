@@ -3,8 +3,8 @@ title: '<a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevP
 collection: teaching
 type: "Utility Model Patent"
 permalink: /teaching/2015-spring-teaching-1
-venue: "February 15"
-date: 2022-02-15
+venue: "July 26"
+date: 2024-07-26
 location: 
 
 ---
