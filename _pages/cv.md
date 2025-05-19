@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Safety Engineer
+  * China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
+  * Duties included: Safety Management
+  * Supervisor: Chenxin
   
 Skills
 ======
