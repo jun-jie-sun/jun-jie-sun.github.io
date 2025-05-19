@@ -1,5 +1,5 @@
 ---
-title: '<a href="http://jun-jie-sun.github.io/images/一种分布式风光互补的空气净化装置.png" style="color: teal;">1. A Distributed Air Purification Device with Wind-Solar Hybrid Power Supply </a>'
+title: '<a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui" style="color: teal;">1. A Device and Method for Experimental Measurement of Radon Exhalation from Fissures in Radioactive Beach Surfaces </a>'
 collection: teaching
 type: "Utility Model Patent"
 permalink: /teaching/2015-spring-teaching-1
