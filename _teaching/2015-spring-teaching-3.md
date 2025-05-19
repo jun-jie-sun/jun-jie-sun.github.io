@@ -6,5 +6,4 @@ permalink: /teaching/2015-spring-teaching-1
 venue: "July 26"
 date: 2024-07-26
 location: 
-
 ---
