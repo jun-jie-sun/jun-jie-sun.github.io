@@ -19,7 +19,6 @@ During my master's studies, my overall academic performance is equivalent to or 
 
 Research Experience
 ======
-
 1. Innovative Works Design Competitions: I have participated in various innovative works design competitions held in China. The innovative devices involved during the competition include : a traffic tunnel power generation device for safe emergency power supply, a green power generation device based on road tunnel traffic flow, a pressure difference sensing regeneration green power supply device based on liquid pipe network, and a nuclear power reactor safety emergency device, helping me win 3 provincial or national awards、 nearly 10 school-level awards and apply for 3 patents successfully.
 1. Mathematical Modeling Competitions: I have participated in many domestic and international mathematical modeling competitions, been exposed to various hot research issues in interdisciplinary fields, and utilized simulation and machine learning methods to solve these problems. At that time, it had already won the second prize at the school level in the National Competition of China and the F Award (the highest award nomination) in the Mathematical Contest in Modeling of the United States, which set a new record for the highest award in the school at that time.
 1. Scientific Research Experiment: During my undergraduate studies, I joined the Hunan Provincial Engineering Research Center for Uranium Tailings Pond Decommissioning and Treatment Technology and participated in the research on the treatment and utilization of tailings ponds. I successfully applied for one invention patent and published one sci paper finally. During the postgraduate stage, I joined the Neutral Beam Injection Laboratory of Hefei Institute of Physics, Chinese Academy of Sciences, and engaged in the research on the particle evolution characteristics of the CRAFT-NNBI electro-deflectors. One sci paper has been published so far (minor revision pending acceptance), and one invention patent has been applied for (pending public release).
@@ -27,18 +26,27 @@ Research Experience
 Skills and abilities
 ======
 * Skill 1: Programming Languages
-  * Sub-skill 1.1: MATLAB
-  * Sub-skill 1.2: Python
-  * Sub-skill 1.3: C++
+  * MATLAB: data processing and visualization, machine Learning, PIC-MCC simulation, etc.
+  * Python: data processing and visualization, machine Learning, PIC-MCC, etc.
+  * C++: Monte-Carlo simulation.
 * Skill 2: Modeling & Simulation Tools
-  * Sub-skill 2.1: COMSOL
-  * Sub-skill 2.2: ANSYS
-  * Sub-skill 2.3: SRIM
+  * COMSOL: wind field simulation, particle tracking simulation, plasma simulation, etc.
+  * ANSYS: electric field simulation and thermodynamic simulation, etc.
+  * SRIM: Monte-Carlo simulation.
 * Skill 3: Drawing Tools
-  * Sub-skill 3.1: CAD
-  * Sub-skill 3.2: SOLIDWORKS
-  * Sub-skill 3.3: Origin
-  
+  * CAD: drawing two-dimensional plans.
+  * SOLIDWORKS: Drawing three-dimensional part and assembly drawings.
+* Skill 4: Data Analysis and Visualization
+  * Origin: data mapping and optimization.
+  * SPSS: machine Learning.
+* Skill 5: Experimental Operations
+  * Design and production of models.
+  * Design, installation and use of diagnostic devices.
+  * Operation of laboratory instruments.
+* Skill 6: Experimental OperationsOther Skills
+  * Office software.
+  * Video production and editing
+  * More skills in development…
 
 Future Plan
 ======
