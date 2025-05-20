@@ -31,9 +31,9 @@ Skills and abilities
   * Sub-skill 1.2: Python
   * Sub-skill 1.3: C++
 * Skill 2: Modeling & Simulation Tools
-  * Sub-skill 2.1：COMSOL
-  * Sub-skill 2.2：ANSYS
-  * Sub-skill 2.3：SRIM
+  * Sub-skill 2.1: COMSOL
+  * Sub-skill 2.2: ANSYS
+  * Sub-skill 2.3: SRIM
 * Skill 3: Drawing Tools
   * Sub-skill 3.1: CAD
   * Sub-skill 3.2: SOLIDWORKS
