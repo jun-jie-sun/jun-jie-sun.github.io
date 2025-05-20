@@ -28,7 +28,7 @@ Skills and abilities
 ======
 1.  Computer Programming Skills: Familiar with using matlab and python, with a foundation in c++ and currently learning to use the c++ based Monte Carlo simulation program like Geant4.Simple web page creation and modification.
 2.  The Use Of Simulation Software: COMSOL is utilized for wind field simulation, particle tracking simulation, plasma simulation, etc. Electric field simulation and thermodynamic simulation, etc. are carried out by using ANSYS.
-3.  Drawing And Modeling: Use CAD to draw relevant floor plans and SOLIDWORKS to conduct 3D modeling of related parts and devices.
+3.  Drawing And Modeling: Use CAD to draw relevant floor plans、Origin and spss to analyse and draw research data SOLIDWORKS to conduct 3D modeling of related parts and devices.
 4.  Experimental Operations: Design and production of models, design, installation and use of diagnostic devices, and operation of laboratory instruments such as ball mills.
 5.  Other Skills: The use of Office software such as MS Office, video production and editing.
 6.  ...(I have strong self-control and a high interest in learning. More skills and abilities are under development.)
