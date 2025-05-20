@@ -32,6 +32,19 @@ Skills and abilities
 4.  Experimental Operations: Design and production of models, design, installation and use of diagnostic devices, and operation of laboratory instruments such as ball mills.
 5.  Other Skills: The use of Office software such as MS Office, video production and editing.
 6.  ...(I have strong self-control and a high interest in learning. More skills and abilities are under development.)
+* Skill 1: Programming Languages
+  * Sub-skill 1.1: MATLAB
+  * Sub-skill 1.2: Python
+  * Sub-skill 1.3: C++
+* Skill 2: Modeling & Simulation Tools
+  * Sub-skill 2.1：COMSOL
+  * Sub-skill 2.2：ANSYS
+  * Sub-skill 2.3：SRIM
+* Skill 3：Drawing Tools
+  * Sub-skill 3.1: CAD
+  * Sub-skill 3.2: SOLIDWORKS
+  * Sub-skill 3.3: Origin
+  
 
 Future Plan
 ======
