@@ -34,7 +34,7 @@ Skills and abilities
   * Sub-skill 2.1：COMSOL
   * Sub-skill 2.2：ANSYS
   * Sub-skill 2.3：SRIM
-* Skill 3：Drawing Tools
+* Skill 3: Drawing Tools
   * Sub-skill 3.1: CAD
   * Sub-skill 3.2: SOLIDWORKS
   * Sub-skill 3.3: Origin
