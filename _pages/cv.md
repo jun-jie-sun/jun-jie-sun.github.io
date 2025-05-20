@@ -27,7 +27,9 @@ Skills
 * Skill 2: Modeling & Simulation Tools (COMSOL, ANSYS, SRIM)
 * Skill 3：Drawing Tools (CAD, SOLIDWORKS)
 * Skill 4：Data Analysis and Visualization (Origin, SPSS)
-* Skill 5: Experimental Operations (design and production of models, installation and use of diagnostic devices, operation of laboratory instruments)
+* Skill 5: Experimental Operations
+* Skill 5: Other Skills (MS Office, Video Production and Editing)
+* More skills in development...
 
 Publications
 ======
