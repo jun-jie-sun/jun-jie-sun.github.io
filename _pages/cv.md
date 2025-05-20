@@ -23,14 +23,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-  * Sub-skill 1.1
-  * Sub-skill 1.2
-  * Sub-skill 1.3
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Skill 1: Programming Languages
+  * Sub-skill 1.1: MATLAB
+  * Sub-skill 1.2: Python
+  * Sub-skill 1.3: C++
+* Skill 2: Modeling & Simulation Tools
+  * Sub-skill 2.1：COMSOL
+  * Sub-skill 2.2：ANSYS
 * Skill 3
   * Sub-skill 2.1
   * Sub-skill 2.2
