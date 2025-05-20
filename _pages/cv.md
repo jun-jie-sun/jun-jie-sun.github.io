@@ -23,19 +23,11 @@ Work experience
   
 Skills
 ======
-* Skill 1: Programming Languages
-  * Sub-skill 1.1: MATLAB
-  * Sub-skill 1.2: Python
-  * Sub-skill 1.3: C++
-* Skill 2: Modeling & Simulation Tools
-  * Sub-skill 2.1：COMSOL
-  * Sub-skill 2.2：ANSYS
-  * Sub-skill 2.3：SRIM
-* Skill 3：Drawing Tools
-  * Sub-skill 3.1: CAD
-  * Sub-skill 3.2: SOLIDWORKS
-  * Sub-skill 3.3: Origin
-
+* Skill 1: Programming Languages (MATLAB, Python, C++)
+* Skill 2: Modeling & Simulation Tools (COMSOL, ANSYS, SRIM)
+* Skill 3：Drawing Tools (CAD, SOLIDWORKS)
+* Skill 4：Data Analysis and Visualization (Origin, SPSS)
+* Skill 5: Experimental Operations (design and production of models, installation and use of diagnostic devices, operation of laboratory instruments)
 
 Publications
 ======
