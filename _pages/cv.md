@@ -30,7 +30,7 @@ Skills
 * Skill 2: Modeling & Simulation Tools
   * Sub-skill 2.1：COMSOL
   * Sub-skill 2.2：ANSYS
-* Skill 3
+* Skill 3：
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
