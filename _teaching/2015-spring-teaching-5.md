@@ -8,4 +8,4 @@ date: 2025-05-13
 location: 
 ---
 
-Details to be updated
+...(Details to be updated.)
