@@ -7,3 +7,5 @@ venue: "May 13"
 date: 2025-05-13
 location: 
 ---
+
+Details to be updated
