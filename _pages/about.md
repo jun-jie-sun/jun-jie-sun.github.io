@@ -46,7 +46,7 @@ Skills and abilities
 * Skill 6: Experimental OperationsOther Skills
   * Office software.
   * Video production and editing
-  * More skills in development to meet your needs…
+  * … (More skills in development to meet your needs.)
 
 Future Plan
 ======
