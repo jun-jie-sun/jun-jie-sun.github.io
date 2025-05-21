@@ -8,13 +8,5 @@ date: 2021-09-17
 location: 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The utility model discloses a nuclear power reactor safety emergency device, including a steam generator, the steam generator is connected to the cooling pipe installed inside the water-cooled box through the pressure relief pipe, the pressure relief pipe is installed with a remotely adjustable safety valve, the cooling pipe is connected to the external discharge tank through the discharge pipe, the water-cooled box is interconnected to the external air-cooled tower through the water inlet pipe and the exhaust pipe and the water-cooled box is installed with a drain pipe for drainage. The device can avoid the rupture of the heat transfer tube in the steam generator, which may cause nuclear contamination, and at the same time, it can be adjusted when the pressure inside the containment rises, so that the safety valve can be opened smoothly for pressure relief.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
