@@ -1,5 +1,5 @@
 ---
-title: '<a href="http://jun-jie-sun.github.io/images/一种核电反应堆安全应急装置.png" style="color: teal;">1. Granted: A Safety Emergency Device for Nuclear Power Reactors </a>'
+title: '<a href="http://jun-jie-sun.github.io/images/一种核电反应堆安全应急装置.png" style="color: teal;">5. Granted: A Safety Emergency Device for Nuclear Power Reactors </a>'
 collection: teaching
 type: "Utility Model Patent"
 permalink: 
