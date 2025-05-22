@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Plasma Physics, University of Science and Technology of China, 2026
-* B.E. in Safety Engineering, University of South China, 2023
+* M.Sc. in Plasma Physics, University of Science and Technology of China, 2026
+* B.Eng. in Safety Engineering, University of South China, 2023
 
 Work experience
 ======
