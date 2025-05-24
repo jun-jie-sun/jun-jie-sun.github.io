@@ -28,7 +28,7 @@ Skills
 * Skill 3: Drawing Tools (CAD, SOLIDWORKS)
 * Skill 4: Data Analysis and Visualization (Origin, SPSS)
 * Skill 5: Experimental Operations
-* Skill 5: Other Skills (MS Office, Video Production and Editing)
+* Skill 6: Other Skills (MS Office, Video Production and Editing)
 * ... (More skills in development to meet your needs.)
 
 Publications
