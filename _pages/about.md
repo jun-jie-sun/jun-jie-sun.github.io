@@ -11,7 +11,7 @@ I'm a second-year master's degree student at the [University of Science and Tech
 
 Academic performance
 ======
-During my undergraduate studies, my overall academic performance is equivalent to or above the level of a UK 2:1 Honours degree (or an equivalent qualification), and I graduated with a GPA of 3.69 out of 5.00, with an average score of 87.02/100, ranking 1st among 98 students in the program. 
+Throughout my undergraduate years, my overall academic performance is equivalent to or above the level of a UK 2:1 Honours degree (or an equivalent qualification), and I graduated with a GPA of 3.69 out of 5.00, with an average score of 87.02/100, ranking 1st among 98 students in the program. 
 
 During my master's studies, my overall academic performance is equivalent to or above the level of a UK 2:1 Honours degree (or an equivalent qualification), and I graduated with a GPA of 3.37 out of 4.3, with an average score of about 85/100.
 
