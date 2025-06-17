@@ -18,8 +18,8 @@ Work experience
 ======
 * Summer 2023 - Summer 2026: Research Team Member
   * Institution: Institute Of Plasma Physics, Chinese Academy Of Sciences
-  * Duties included: Experimental Simulation and Design, Platform Construction, Data Analysis of Results
-  * Supervisor: Chenxin Liu
+  * Duties included: Experimental Simulation and Design, Platform Construction, Analysis of Results et al.
+  * Supervisor: Chundong Hu
 
 * Summer 2022: Safety Engineer
   * Institution: China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
