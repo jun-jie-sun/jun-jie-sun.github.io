@@ -17,19 +17,21 @@ Education
 Work experience
 ======
 * Summer 2022: Safety Engineer
-  * China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
+  * Institution: China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
   * Duties included: Safety Management
   * Supervisor: Chenxin Liu
 
 * Summer 2022: Safety Engineer
-  * China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
+  * Institution: China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
   * Duties included: Safety Management
   * Supervisor: Chenxin Liu
 
 * Summer 2021 - Summer 2023: Research Team Member
-  * Department: the Hunan Provincial Engineering Research Center for Uranium Tailings Pond Decommissioning and Treatment Technology
-  * Duties included: Safety Management
-  * Supervisor: Chenxin Liu
+  * Institution: University of South China
+  * Duties included: Experimental operation
+  * Supervisor: Wang Hong et al.
+
+
   
 Skills
 ======
