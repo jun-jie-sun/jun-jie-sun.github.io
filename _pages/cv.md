@@ -20,6 +20,16 @@ Work experience
   * China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
   * Duties included: Safety Management
   * Supervisor: Chenxin Liu
+
+* Summer 2022: Safety Engineer
+  * China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
+  * Duties included: Safety Management
+  * Supervisor: Chenxin Liu
+
+* Summer 2022: Safety Engineer
+  * China State Construction Engineering Corporation （CSCEC, ranked 13th in the world）
+  * Duties included: Safety Management
+  * Supervisor: Chenxin Liu
   
 Skills
 ======
