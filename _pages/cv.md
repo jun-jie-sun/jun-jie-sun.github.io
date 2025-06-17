@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2023 - Summer 2026: Research Team Member
   * Institution: Institute Of Plasma Physics, Chinese Academy Of Sciences
-  * Duties included: Experimental Simulation and Design, Platform Construction, Analysis of Results et al.
+  * Duties included: Experimental Simulation and Design, Platform Construction, Analysis of Results
   * Supervisor: Chundong Hu
 
 * Summer 2022: Safety Engineer
@@ -29,7 +29,7 @@ Work experience
 * Summer 2021 - Summer 2023: Research Team Member
   * Institution: University of South China
   * Duties included: Experimental Operation
-  * Supervisor: Wang Hong et al.
+  * Supervisor: Wang Hong
 
 
   
