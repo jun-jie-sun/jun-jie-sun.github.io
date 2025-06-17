@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2023 - Summer 2026: Research Team Member
   * Institution: Institute Of Plasma Physics, Chinese Academy Of Sciences
-  * Duties included: Experimental Simulation and Design, Platform Construction, Experimental Operation, Data Analysis of Results
+  * Duties included: Experimental Simulation and Design, Platform Construction, Data Analysis of Results
   * Supervisor: Chenxin Liu
 
 * Summer 2022: Safety Engineer
